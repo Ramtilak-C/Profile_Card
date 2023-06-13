@@ -5,7 +5,7 @@
 
   <p align="center">
     This project was carried out in order to show my knowledge through software development and web development. HTML, CSS and JavaScript were used. URL / Demo: 
-    <a href="./">ramtilak.me/</a>
+    <a href="./index.html">ramtilak.me/</a>
     <br />
   </p>
 </p>
